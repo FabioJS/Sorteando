@@ -1,0 +1,19 @@
+{
+  "name": "sorteando",
+  "version": "1.0.0",
+  "description": "Aplicativo de sorteios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioJS/Sorteando.git"
+  },
+  "author": "Fabio dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabioJS/Sorteando/issues"
+  },
+  "homepage": "https://github.com/FabioJS/Sorteando#readme"
+}
